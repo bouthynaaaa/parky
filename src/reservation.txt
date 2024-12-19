@@ -1,0 +1,7 @@
+1 134 1 15 12 2024 2.000000 banque ll Mensuel
+2 134 1 15 12 2024 2.000000 banque ll Mensuel
+3 134 1 15 12 2024 2.000000 banque ll Mensuel
+4 134 1 15 12 2024 2.000000 banque ll Mensuel
+5 134 1 15 12 2024 2.000000 banque ll Mensuel
+6 134 1 15 12 2024 2.000000 banque ll Mensuel
+7 134 1 15 12 2024 2.000000 banque ll Mensuel
